@@ -1,0 +1,13 @@
+#list{
+    display: none;
+}
+
+
+#hamburger{
+    display: revert;
+    position: absolute;
+    color: white;
+    top: 12px;
+    left: 92%;
+    font-size: 28px;
+}
